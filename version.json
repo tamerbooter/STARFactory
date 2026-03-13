@@ -1,7 +1,7 @@
 {
   "appName": "STAR Factory – Smart Workforce System",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "exeName": "STARFactory.exe",
-  "downloadUrl": "https://github.com/tamerbooter/STARFactory/releases/download/v1.1.0/STARFactory-v1.1.0.zip",
-  "notes": "Program guide, biometric import to payroll, and workflow improvements"
+  "downloadUrl": "https://github.com/tamerbooter/STARFactory/releases/download/v1.1.1/STAR.Factory.v1.1.1.zip",
+  "notes": "UI polish, splash screen improvement, print cleanup, and stability fixes"
 }
