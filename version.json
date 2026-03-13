@@ -2,6 +2,6 @@
   "appName": "STAR Factory – Smart Workforce System",
   "version": "1.0.0",
   "exeName": "STARFactory.exe",
-  "downloadUrl": "",
-  "notes": "First STAR Factory release"
+  "downloadUrl": "https://github.com/tamerbooter/STARFactory/releases/download/v1.0.0/STARFactory-win-x64.zip",
+  "notes": "First public release"
 }
