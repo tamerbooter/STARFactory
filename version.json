@@ -1,7 +1,7 @@
 {
   "appName": "STAR Factory - Smart Workforce System",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "exeName": "STARFactory.exe",
-  "downloadUrl": "https://github.com/tamerbooter/STARFactory/releases/download/v1.1.3/STAR.Factory.v1.1.3.exe",
-  "notes": "Unified fingerprint connection status, row hover highlight, shift editing 8/9/12, payroll based on 30 days, sticky table headers, improved back navigation, numeric sorting, Arabic months and date range, improved app icon."
+  "downloadUrl": "https://github.com/tamerbooter/STARFactory/releases/download/v1.1.4/STAR.Factory.v1.1.4.exe",
+  "notes": "إصلاح تثبيت هيدر الجداول أعلى الجدول، استعادة تظليل الصفوف، تحسين تنسيق الجداول والأعمدة، تثبيت زر الرجوع بجوار المزيد، الحفاظ على تنسيق الوقت مثل 08:00 ص، وتحسينات عامة على الاستقرار."
 }
