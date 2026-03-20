@@ -1,7 +1,7 @@
 {
   "appName": "STAR Factory - Smart Workforce System",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "exeName": "STARFactory.exe",
-  "downloadUrl": "https://github.com/tamerbooter/STARFactory/releases/download/v1.1.4/STAR.Factory.v1.1.4.exe",
-  "notes": "إصلاح تثبيت هيدر الجداول أعلى الجدول، استعادة تظليل الصفوف، تحسين تنسيق الجداول والأعمدة، تثبيت زر الرجوع بجوار المزيد، الحفاظ على تنسيق الوقت مثل 08:00 ص، وتحسينات عامة على الاستقرار."
+  "downloadUrl": "https://github.com/tamerbooter/STARFactory/releases/download/v1.1.5/STARFactory-CLIENT_LIFETIME-Setup-v1.1.5.exe",
+  "notes": "تحسينات كبيرة في الاستقرار، وتقوية منطق الحضور والمرتبات، وتحسين مزامنة البصمة بشكل فعلي، ورفع دقة الداشبورد، وتطوير النسخ الاحتياطي والاسترجاع، وتحسين الأمان الداخلي، ودعم التحديث الآمن مع التراجع التلقائي عند الحاجة."
 }
