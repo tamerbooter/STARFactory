@@ -1,7 +1,7 @@
 {
   "appName": "STAR Factory - Smart Workforce System",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "exeName": "STARFactory.exe",
-  "downloadUrl": "https://github.com/tamerbooter/STARFactory/releases/download/v1.1.5/STARFactory-CLIENT_LIFETIME-Setup-v1.1.5.exe",
-  "notes": "تحسينات كبيرة في الاستقرار، وتقوية منطق الحضور والمرتبات، وتحسين مزامنة البصمة بشكل فعلي، ورفع دقة الداشبورد، وتطوير النسخ الاحتياطي والاسترجاع، وتحسين الأمان الداخلي، ودعم التحديث الآمن مع التراجع التلقائي عند الحاجة."
+  "downloadUrl": "https://github.com/tamerbooter/STARFactory/releases/download/v1.1.6/STARFactory-CLIENT_LIFETIME-Setup-v1.1.6.exe",
+  "notes": "Improved stability, fingerprint sync enhancements, attendance and payroll accuracy improvements, performance optimizations, and important internal fixes."
 }
